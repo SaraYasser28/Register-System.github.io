@@ -31,6 +31,11 @@ Register System/
 └── script.js
 
 
+
+
+
+
+
 ## 🔧 How It Works
 
 ### 📌 Registration
@@ -70,4 +75,5 @@ Register System/
 ## ⚠️ Notes
 
 - All data is stored **locally in the browser** — this is not secure for production.
+
 - Data will reset if you clear your browser cache or localStorage.
